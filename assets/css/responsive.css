@@ -1,0 +1,274 @@
+@media(max-width:1600px){
+	.navbar-brand img {margin: 35px auto 0; display: block; width: 70%; }
+.navbar-brand { height: 178px; width: 120px; padding: 0; background-size: 100%; }
+	h5 {font-size: 36px; } 
+ .about-img1{max-width:100%;}
+ .top-arrow{left:21%;}
+ .section-headings h4.Company::before{font-size:90px;bottom:20px;left:-40px;}
+}
+@media(max-width:1500px){
+ .down-arrow {bottom: -64%; left: 232px;}
+ .job-positions{padding:66px 48px;}
+ .job-li img{width:50px;}
+ .job-li p{line-height:1.5;font-size:14px;}
+ .career-con-right{padding:78px 54px 90px 75px;bottom:-19%;}
+ .career-section::before{content:'';width:600px;height:791px;background-size:100%;bottom:-48%;}
+ .career-section::after{height: 1001px; position: absolute; right: 19%; top: -4%; background-size: 80%; }
+ .about-img2{width:54%;}
+ .about__arrows{top:156px;}
+ .top-arrow{left:27%;top:-82px;}
+ .section-headings h4.technology::before{font-size:85px;} 
+ .section-headings h4::before{font-size:84px;}
+ .banner-caption::after{background-size:83%;}
+ .about-img1{max-width:100%;width: 75%;}
+ }
+@media(max-width:1440px){
+ .custom-btn, .custom-btn span{padding:10px 17px;}
+ .navbar-brand{height:145px;background-size:100%;width:117px;}
+ .navbar-brand img{height: auto; margin: 15px auto 0;} 
+ a{line-height:1.5;}
+ .main-footer{padding:154px 0 20px;}
+ .f-logo img{width:90px;}
+ .f-logo{margin:0 0 15px;}
+ h3{font-size:18px;line-height:17px;}
+ .f-address,.footer-link li{margin:0 0 8px;}
+ .footer-space{padding:60px 15px 0;}
+ .news-input input{height:50px;}
+ .news-input input::placeholder{font-size:15px;}
+ .news-input svg{font-size:20px;}
+ .without-bg{margin:20px 0 0;}
+ .without-bg,.without-bg span{padding:10px 14px;font-size:14px;line-height:1.5;}
+ .f-bottom{padding:20px 0 0;margin:20px 0 0;}
+ .social-link li{margin:0 14px 0 0;}
+ .banner-caption{padding:216px 0 0;max-width: 548px;}
+ .banner-caption::before{top:25%;left:30%;}
+ .banner-section{padding:50px 0 337px;}
+ .banner-caption::after{height:1200px;width:82px;position:absolute;left:23%;bottom:-237%;background-size:61%;background-position:bottom;} 
+ .down-arrow{bottom:-75%;left:28%;}
+ .aboutus-right{padding-left:30px;}
+ .section-headings h4::before{font-size:70px;bottom:16px;}
+ h4{font-size:36px;}
+ .section-headings{padding-left:15px;}
+ .section-headings p{line-height:1.5;}
+ h2{font-size:40px;line-height:70px;}
+ .banner-caption h1{font-size:55px;}
+ .aboutus::after{width:500px;height:500px;background-size:100%;}
+ .product-section{padding:60px 0;}
+ .product-img{margin-top:-140px;}
+ .aboutus{padding:90px 0 110px;}
+ .career-section::before{width:600px;height:600px;}
+ .career-section::before{width:492px;height:531px;bottom:-18%;}
+ .job-ul{padding:30px 0 0;}
+ .about__arrows{top:178px;}
+ .banner-caption::before{width:3px;}
+ .top-arrow{left:22%;top:-115px;}
+ .top-arrow img{height:auto;}
+ .scrollToTop{bottom:6px;}
+ .without-bg.form-button, .without-bg.form-button span{padding:12px 40px;}
+
+}
+@media(max-width:1366px){   
+.news__arrow.slick-arrow {width: 72px; height: 61px; }
+ .top-arrow{left:22%;top:-116px;}
+ .about-img1{max-width:100%;}
+ .about__arrows{top:179px;}
+ .main-footer {padding: 147px 0 20px; }
+}
+@media(max-width:1352px){
+ .top-arrow{left:22%;top:-119px;}
+}
+@media(max-width:1199px){
+ .employee-form-con {padding: 70px 40px 54px; }
+ .col-form-text, select, textarea{padding: 11px;height: auto}
+ .section-headings h4.Contact-us::before{font-size: 58px;}
+ .news__arrow.slick-arrow {width: 60px; height: 60px; }
+ .down-arrow {bottom: -80%; }
+ .main-footer{padding:145px 0 20px;}
+ .footer-li:first-child{padding-right:30px;}
+ .f-bottom a, .f-bottom span{font-size:12px;}
+ .social-link li a{width:30px;height:30px;}
+ .banner-section{padding:50px 0 322px;}
+ .about-img2{width:60%;}
+ .about__arrows{top:117px;}
+ .aboutus::after{width:500px;height:500px;background-size:100%;}
+ .career-con-right{padding:54px 38px 56px 82px;bottom:-11%;max-width:533px;}
+ .banner-caption::after{height:1162px;width:82px;} 
+ .aboutus-slider .slick-list.draggable{padding-bottom:64px;}
+ .top-arrow{top:-122px;}
+ .section-headings h4.Company::before{font-size:66px;bottom:18px;left:-40px;}
+ .section-headings h4.technology::before{font-size:65px;}
+ .job-positions{padding:53px 30px;}
+ .career-section::after {height: 888px; position: absolute; right: 19%; top: -4%; background-size: 69%; }
+ }
+@media(max-width:991px){
+ .news-input svg{right: 16px;}
+  .contact-section {padding: 0 0 50px; }
+ .contact-section::before{width: 100%}
+ .contact-li.last {padding-left: 15px; }
+ .contact-li:first-child {order: 2; margin-top: 30px; }
+ .product-section {padding: 10px 0 16px; }
+ .product-con-left {order: 2; margin-top: 55px; }
+ .product-img img {max-width: 50%; margin: auto !important; display: block; }
+ .news__arrow.slick-arrow {width: 85px; height: 70px; }
+ .down-arrow {bottom: -65%; left: 28%; }
+ .navbar-collapse{margin-left:0;}
+ .aboutus-right{padding:40px 15px;}
+ .section-headings h4::before{bottom:16px;left:-21px;}
+ .section-headings{padding-left:18px;}
+ .about__arrows{top:155px;}
+ .aboutus{padding:0;}
+ .main-footer{padding:152px 0 20px;}
+ .product-image1{margin:0 0 40px;}
+ .product-img img{margin:0;width:100%;}
+ .product-img{margin:30px 0 0;}
+ .product-con-right{padding-left:15px;}
+ .product-blog{padding:40px 0 0;}
+ .career-con-right{position:unset;max-width:100%;margin:30px 0 0;padding:40px 40px;}
+ .job-positions{margin:0;padding: 30px;}
+ .career-section{padding:100px 0;}
+ .career-section::after{display:none;}
+ .banner-caption::after{ background-size: 65%;}
+ .news-input input{padding:5px 49px 5px 20px;}
+ .career-con-left{padding:0 !important;}
+ .top-arrow{top:-118px;left:28%;}
+ .technology-con-right{margin:40px 0 0;}
+ .main-header.sticky nav.navbar.navbar-expand-md{padding:5px 0;}
+
+ }
+@media(max-width:767px){
+ .f-address svg{margin: 3px 10px 0 0;}
+ .responsive-menu {width: 123px; }
+ .scrollToTop {bottom: 36px; right: 60px; left: auto; }
+ ul.social-link {justify-content: center !important; width: 100%; margin-top: 15px; }
+ .top-arrow {top: auto; bottom: 30px; left: auto;right: 15px;}
+ .news__arrow.slick-arrow {width: 66px; height: 60px; }
+ .navbar-collapse.active{display:block;position:absolute;top:101px;background:#00406d;width:100%;z-index:15;left:0;right:0;}
+ .main-header.sticky a.nav-link{color:#fff;}
+ .main-header .custom-btn{margin-left:0;margin-right:0;}
+ .main-header.sticky .navbar-collapse.active{top:88px;}
+ .main-header.sticky .navbar-brand img{width:78px;height:78px;}
+ a{font-size:16px;}
+ .footer-link li a,.f-address{font-size:16px;align-items: self-start;}
+ .nav-link:hover::after, .nav-link.active::after{width:100%;height:2px;background:#fff;border-radius:0;}
+ .nav-link{padding:12px 20px !important;}
+ .navigation-wrap{padding:0 15px;}
+ .navbar-brand img {height: auto; width: 55px; margin: auto; }
+ .navbar-brand {height: 102px; width: 79px; display: flex; margin-right: 0;}
+ .custom-btn{padding:9px 13px;}
+ .custom-btn span{padding:2px 13px;font-size:12px;}
+ .main-header.sticky .custom-btn span{padding:5px 19px;}
+ .banner-caption::before{display:none;}
+ .banner-caption::after {left: 8%; bottom: -315%; }
+ .social-link{justify-content:flex-end;}
+ .social-link li:last-child{margin-right:0;}
+ .span-last{text-align:center !important;}
+ .footer-space{padding:84px 15px 0;}
+ .f-headings{margin:0 0 14px;}
+ .main-footer{background:url(../images/responsive-fbg.webp) no-repeat;background-size:cover;padding:0 0 20px;position: relative;z-index: 1}
+ .footer-li:last-child{padding:20px 15px 0;}
+ .f-bottom span{margin:0;}
+ .about__arrows{top:131px;}
+ .banner-caption{padding:94px 0 0;}
+ .job-li:nth-child(2), .job-li:nth-child(3){border-left:0;}
+ .job-li:nth-child(3){border-left:2px solid #33AF20;border-top:0;}
+ .job-li:nth-child(4){border-left:0;}
+ .job-li:nth-child(5){border-top:0;border-left:2px solid #33AF20;}
+ .career-section::before{width:100%;height:531px;bottom:-4%;z-index:-1;}
+ .down-arrow{left:13.5%;bottom:-75%;}
+ .top-arrow img{height:auto;} 
+}
+@media(max-width:575px){
+ .f-address svg{margin-top: 3px;}
+ .responsive-menu {width: 85px; }
+ .col-form-text::placeholder,input[type="date"]{font-size:16px;}
+ .career-section{padding:50px 0 50px;}
+ .employee-form-con::before,.employee-form-con::after{display:none;}
+ textarea.col-form-text {height: 103px; padding: 15px; }
+ .employee-form-con {padding: 50px 16px 25px; }
+ .section-headings h4.Contact-us::before {font-size: 50px; }
+ .contact-p {margin: 10px 0 0; font-size: 16px; line-height: 1.5; text-align: center}
+ .contact-flex {flex-wrap: wrap;justify-content: center }
+ .f-address{word-break: break-word;}
+ .f-logo {margin: 0 0 27px; }
+ .footer-li:last-child{width:100%;}
+ .footer-li {width: 50%; }
+ .product-caption p{line-height: 1.5;margin: 7px 0 12px;}
+ .product-img img {margin: 0; max-width: 100%; }
+ .f-bottom{margin:20px 0 0;}
+ .footer-space{padding:120px 15px 0;}
+ .about__arrows{top:122px;}
+ .banner-caption{padding:65px 0 0;}
+ .banner-section{padding:50px 0 212px;}
+ h2{font-size:32px;line-height:1.5;}
+ .banner-caption h1{font-size:43px;}
+ .aboutus::after{width:400px;height:400px;} 
+ .job-ul{padding:20px 0 0;}
+ .career-section::before{width:62%;height:485px;bottom:-20%;}
+ .career-con{padding:0 15px;}
+ .banner-caption::after{display: none}
+ .down-arrow {bottom: -170px; left: 0; right: 0; background: #3cb62d; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: auto; }
+  .career-con-left{padding:0 !important;}
+ .career-con-right{margin:30px 0 0;}
+ .scrollToTop{bottom:22px;right:15px;position: fixed} 
+ .section-headings h4.peek::before{font-size:50px;}
+}
+@media(max-width:480px){
+ .social-link li a svg {width: 16px;height: 16px;}
+ .f-address br {display: none;}
+ .main-header .custom-btn{padding: 9px 10px; font-size: 14px;} .responsive-menu { width: auto;}
+.product-blog-li{max-width:100%;flex:100%;}
+ h5 { font-size: 28px; line-height: 1.5; }
+ .product-caption {position: absolute; bottom: 0; padding: 0 15px 19px; }
+ .navbar-brand img {width: 42px; margin: 15px auto auto; }
+ .navbar-brand{height:80px;width:62px;}
+ .navbar-collapse.active{top:80px;}
+ .banner-caption h1{font-size:50px;}
+ .social-link{justify-content:center;margin:10px 0 !important;}
+ .f-bottom a{text-align:center;}
+ .without-bg, .without-bg span{padding:7px 12px;}
+ .news-input input{padding:5px 47px 5px 12px;}
+ .news-input input::placeholder,.news-input input{font-size:14px;}
+ .news-input svg{right:15px;}
+ .f-address i{font-size:16px;}
+ .about-img2{bottom:-19%;width:67%;}
+ .news__arrow.slick-arrow{width: 48px;height:48px;} 
+ .news__arrow.slick-arrow img{width:11px;}
+ .about__arrows{top:150px;}
+ .section-headings h4::before{font-size:46px;left: -13px;}
+ h4{font-size:26px;}
+ h2{font-size:28px;line-height:1.5;}
+ .banner-caption h1{font-size:30px;line-height:1.5;}
+ .job-positions ,.career-con-right{padding:30px 25px;}
+ .job-li img{width:40px;}
+ .career-section::before{width:100%;height:300px;bottom:0%;}
+ .banner-caption::after{height:700px;width:82px;left:8%;}
+  .down-arrow a img{width:23px;}
+ .aboutus-slider .slick-list.draggable{padding-bottom:100px;}
+.main-header.sticky .custom-btn {padding: 6px 10px; font-size: 14px; }
+ .main-header.sticky .custom-btn span{padding:6px 10px;font-size: 14px;}
+ .section-headings h4.Company::before{font-size:52px;bottom:12px;left:-21px;}
+ .section-headings h4.technology::before{font-size:51px;}
+ .without-bg.form-button, .without-bg.form-button span{padding:9px 25px;}
+ .without-bg.text-button, a.without-bg.text-button span{height:53px;}
+ .without-bg.text-button img{height:20px;}
+ }
+@media(max-width:423px){
+ .banner-caption::after{bottom:-306%;height:615px;left:8%;background-size:45%;background-position:center;}
+
+}
+@media(max-width:380px){
+ .job-li{padding:20px 14px;}
+ .banner-caption::after{height:567px;width:82px;left:5%;bottom:-281%;background-size:37%;}
+ .down-arrow img{width:20px;}
+ .down-arrow a img{width:19px;}
+ .scrollToTop{bottom:17px;}
+ }
+@media(max-width:350px){
+ .section-headings h4.Contact-us::before {font-size: 45px; left: -7px;}
+ .scrollToTop.active {width: 37px; height: 37px; padding: 10px; }
+ .top-arrow{right:0;}
+ .footer-space {padding: 20px 15px 0; }
+ .footer-li {width: 100%; }
+ .news__arrow.slick-arrow {width: 35px; height: 39px; }
+ .about__arrows{top:137px;}
+}

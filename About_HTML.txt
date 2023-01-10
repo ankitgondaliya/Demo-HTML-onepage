@@ -1,0 +1,16 @@
+=> One page responsive web HTML design:
+
+- One page navigation
+- Products listing
+- Contact form
+- Newsletter subscription form
+
+
+=> On this web HTML design we have used the following technologies:
+- HTML
+- CSS
+- Bootstrap 5.0.2
+- HTML5
+- CSS3
+- JavaScript
+- jQuery
